@@ -1,0 +1,42 @@
+_repo: Hunger--Book-One_18291
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Segal, Elhanan
+    gutenberg_agent_id: '7926'
+    url: http://www.gutenberg.org/2009/agents/7926
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Thode, Knut
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18291'
+language: he
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Urban poor -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Hunger -- Fiction'
+- !lcsh 'Starvation -- Fiction'
+- !lcc 'PT'
+title: 'Hunger: Book One'
+url: http://www.gutenberg.org/ebooks/18291
