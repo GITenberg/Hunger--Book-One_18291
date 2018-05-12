@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18291#Hunger--Book-One
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-04-30'
 gutenberg_type: Text
